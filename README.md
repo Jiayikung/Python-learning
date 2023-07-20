@@ -11,5 +11,7 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [weather_master.py](https://github.com/Jiayikung/Python-learning/blob/main/weather_master.py)
    - [prime_checker.py](https://github.com/Jiayikung/Python-learning/blob/main/prime_checker.py)
  - Nested for loop, Functions, String manipulation
-   - 
+   - [my_upper.py](https://github.com/Jiayikung/Python-learning/blob/main/my_upper.py)
+   - [reverse_string.py](https://github.com/Jiayikung/Python-learning/blob/main/reverse_string.py)
+   - [replace_keyword.py](https://github.com/Jiayikung/Python-learning/blob/main/replace_keyword.py)
      
