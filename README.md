@@ -10,4 +10,6 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [hailstone.py](https://github.com/Jiayikung/Python-learning/blob/main/hailstone.py)
    - [weather_master.py](https://github.com/Jiayikung/Python-learning/blob/main/weather_master.py)
    - [prime_checker.py](https://github.com/Jiayikung/Python-learning/blob/main/prime_checker.py)
+ - Nested for loop, Functions, String manipulation
+   - 
      
