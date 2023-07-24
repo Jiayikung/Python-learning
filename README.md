@@ -14,4 +14,8 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [my_upper.py](https://github.com/Jiayikung/Python-learning/blob/main/my_upper.py)
    - [reverse_string.py](https://github.com/Jiayikung/Python-learning/blob/main/reverse_string.py)
    - [replace_keyword.py](https://github.com/Jiayikung/Python-learning/blob/main/replace_keyword.py)
+   - [rocket.py](https://github.com/Jiayikung/Python-learning/blob/main/rocket.py)
+   - [complement.py](https://github.com/Jiayikung/Python-learning/blob/main/complement.py)
+   - [caesar.py](https://github.com/Jiayikung/Python-learning/blob/main/caesar.py)
+   - [hangman.py](https://github.com/Jiayikung/Python-learning/blob/main/hangman.py)
      
