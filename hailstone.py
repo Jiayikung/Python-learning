@@ -19,14 +19,15 @@ def main():
     print('This program computes Hailstone sequences')
     n = int(input('Enter a number:'))
     count = 0
+    n1 = 0
     while True:
         if n == 1:
             break
         elif n % 2 == 0:
-            n1 = n//2
+            n1 = n // 2
             print(str(n)+' is even, so I take half: '+str(n1))
         elif n % 2 == 1:
-            n1 = 3*n+1
+            n1 = 3 * n + 1
             print(str(n) + ' is odd, so I take 3n+1: '+str(n1))
         count += 1
         n = n1

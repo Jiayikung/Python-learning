@@ -30,7 +30,6 @@ def main():
 			cold += 1
 		maximum = data
 		minimum = data
-		average = data
 		total_sum = data
 		count = 1
 		while True:
@@ -46,7 +45,7 @@ def main():
 			if data < minimum:
 				minimum = data
 			count += 1
-			average = total_sum / count
+		average = total_sum / count
 		print('Highest temperature = ' + str(maximum))
 		print('Lowest temperature = ' + str(minimum))
 		print('Average = ' + str(average))

@@ -34,11 +34,12 @@ def main():
         # flag2 marks two different scenarios that break the game
         flag2 = 0
 
-        print('The word looks like ' + dashed(answer, guess))
+        dashed = dashed(answer, guess)
+        print('The word looks like ' + dashed)
         print('You have ' + str(turns) + ' wrong guesses left.')
         input_ch = input('Your guess: ').upper()  # an case-insensitive alphabet inputted by user
 
-        # If having wrong format, keep asking the user inputting guesses until getting correct format
+        # If having wrong format, keep asking user to input guesses until getting correct one
         while not input_ch.isalpha() or len(input_ch) != 1:
             print('Illegal format.')
             input_ch = input('Your guess: ').upper()
@@ -56,7 +57,7 @@ def main():
             print('There is no ' + input_ch +"'s "+ 'in the word.')
 
         # Two different scenarios that break the game:
-        if dashed(answer, guess) == answer:  # flag2 == 0 denotes it ultimately get correct answer
+        if dashed == answer:  # flag2 == 0 denotes it ultimately get correct answer
             flag2 = 0
             break
         if turns == 0:  # flag2 == 1 denotes it has used up the number of guess the player has

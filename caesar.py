@@ -55,16 +55,12 @@ def decipher(new, ciphered):
     """
     ans = ''
     for ch in ciphered:
-        # make the ciphered string be case-insensitive
-        ch = ch.upper()
-        if ch == ' ':
-            ans += ' '
-        elif ch == '!':
-            ans += '!'
-        else:
-            # reveal the location of each ciphered alphabet in the new alphabet string
-            i = new.find(ch)
+        ch = ch.upper()  # make the ciphered string be case-insensitive
+        i = new.find(ch)  # reveal location for each ciphered alphabet in the new alphabet string
+        if i != -1:
             ans += ALPHABET[i]
+        else:
+            ans += ch
     return ans
 
 
