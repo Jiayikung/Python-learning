@@ -27,6 +27,7 @@ def main():
     guess = ''  # A string of guesses has inputted by the user
     answer = random_word()  # The correct answer in the game
     turns = N_TURNS  # The number of wrong guesses left in the game
+    hidden = dashed(answer, guess)
 
     while True:
         # flag1 marks whether the inputted guess is wrong answer or not
@@ -34,7 +35,6 @@ def main():
         # flag2 marks two different scenarios that break the game
         flag2 = 0
 
-        hidden = dashed(answer, guess)
         print('The word looks like ' + hidden)
         print('You have ' + str(turns) + ' wrong guesses left.')
         input_ch = input('Your guess: ').upper()  # an case-insensitive alphabet inputted by user
@@ -56,6 +56,7 @@ def main():
         elif flag1 == 1:  # flag1 == 1 denotes it's the wrong guess
             print('There is no ' + input_ch +"'s "+ 'in the word.')
 
+        hidden = dashed(answer, guess)
         # Two different scenarios that break the game:
         if hidden == answer:  # flag2 == 0 denotes it ultimately get correct answer
             flag2 = 0

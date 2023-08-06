@@ -33,8 +33,8 @@ def build_complement(dna):
     if dna == '':
         return 'DNA strand is missing.'
     else:
-       ans = ''  # Create an empty string
-       for i in range(len(dna)):
+        ans = ''  # Create an empty string
+        for i in range(len(dna)):
            if dna[i] == 'A':
                ans += 'T'
            elif dna[i] == 'T':
@@ -43,7 +43,7 @@ def build_complement(dna):
                ans += 'G'
            elif dna[i] == 'G':
                ans += 'C'
-       return(ans)
+        return ans
 
 
 # DO NOT EDIT CODE BELOW THIS LINE #
