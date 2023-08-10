@@ -18,4 +18,11 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [complement.py](https://github.com/Jiayikung/Python-learning/blob/main/complement.py)
    - [caesar.py](https://github.com/Jiayikung/Python-learning/blob/main/caesar.py)
    - [hangman.py](https://github.com/Jiayikung/Python-learning/blob/main/hangman.py)
+ - Image processing, SimpleImage package:
+   - [img_processing_2.py](https://github.com/Jiayikung/Python-learning/blob/main/img_processing_2.py)
+   - [curb_repair.py](https://github.com/Jiayikung/Python-learning/blob/main/curb_repair.py)
+   - [flip_horizontally.py](https://github.com/Jiayikung/Python-learning/blob/main/flip_horizontally.py)
+   - [fire.py](https://github.com/Jiayikung/Python-learning/blob/main/fire.py)
+   - [blur.py](https://github.com/Jiayikung/Python-learning/blob/main/blur.py)
+   - [mirror_lake.py](https://github.com/Jiayikung/Python-learning/blob/main/mirror_lake.py)
      
