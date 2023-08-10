@@ -18,6 +18,8 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [complement.py](https://github.com/Jiayikung/Python-learning/blob/main/complement.py)
    - [caesar.py](https://github.com/Jiayikung/Python-learning/blob/main/caesar.py)
    - [hangman.py](https://github.com/Jiayikung/Python-learning/blob/main/hangman.py)
+   - [class_reviews.py](https://github.com/Jiayikung/Python-learning/blob/main/class_reviews.py)
+   - [coin_flip_runs.py](https://github.com/Jiayikung/Python-learning/blob/main/coin_flip_runs.py)
  - Image processing, SimpleImage package:
    - [img_processing_2.py](https://github.com/Jiayikung/Python-learning/blob/main/img_processing_2.py)
    - [curb_repair.py](https://github.com/Jiayikung/Python-learning/blob/main/curb_repair.py)
