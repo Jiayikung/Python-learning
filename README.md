@@ -27,4 +27,7 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [fire.py](https://github.com/Jiayikung/Python-learning/blob/main/fire.py)
    - [blur.py](https://github.com/Jiayikung/Python-learning/blob/main/blur.py)
    - [mirror_lake.py](https://github.com/Jiayikung/Python-learning/blob/main/mirror_lake.py)
+ - Class & Object, GObject, GWindow, Animation:
+   - [my_drawing.py](https://github.com/Jiayikung/Python-learning/blob/main/my_drawing.py)
+   - [bouncing_rect.py](https://github.com/Jiayikung/Python-learning/blob/main/bouncing_rect.py)
      
