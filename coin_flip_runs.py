@@ -38,6 +38,7 @@ def main():
 	ans = ans + flip1 + flip2
 	if flip1 == flip2:
 		count += 1
+		is_in_a_row = True
 
 	while count != run:  # Keep looping until the inputting number of runs equal to ones in the game
 		flip1 = flip2

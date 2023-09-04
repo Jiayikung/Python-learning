@@ -30,6 +30,8 @@ def main():
     else:
         count1 = 0
         count2 = 0
+        maximum = -float('inf')
+        minimum = float('inf')
         score = int(input('Score: '))
         if course == 'SC001':
             maximum1 = score
@@ -77,23 +79,20 @@ def main():
                     total_sum2 += score
                     count2 += 1
 
-        if count1 != 0:  # average number is undefined if the denominator equals to zero
-            average1 = total_sum1 / count1
-        if count2 != 0:
-            average2 = total_sum2 / count2
-
-        print('=============SC001=============')
+        print(print('='*13 +'SC001' + '='*13))
         if count1 == 0:
             print('No score for SC001')
         else:
+            average1 = total_sum1 / count1
             print('Max(001): ' + str(maximum1))
             print('Min(001): ' + str(minimum1))
             print('Avg(001): ' + str(average1))
 
-        print('=============SC101=============')
+        print(print('='*13 +'SC101' + '='*13))
         if count2 == 0:
             print('No score for SC101')
         else:
+            average2 = total_sum2 / count2
             print('Max(101): ' + str(maximum2))
             print('Min(101): ' + str(minimum2))
             print('Avg(101): ' + str(average2))

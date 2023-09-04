@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1f106e86-b63b-49ac-b6cc-f4148ca81900" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blur.py" beforeDir="false" afterPath="$PROJECT_DIR$/blur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_reviews.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_reviews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coin_flip_runs.py" beforeDir="false" afterPath="$PROJECT_DIR$/coin_flip_runs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

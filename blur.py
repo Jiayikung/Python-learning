@@ -53,9 +53,9 @@ def blur(img):
                             b_sum += img_pixel.blue
                             count += 1
             new_img_pixel = new_img.get_pixel(x, y)
-            new_img_pixel.red = r_sum / count
-            new_img_pixel.green = g_sum / count
-            new_img_pixel.blue = b_sum / count
+            new_img_pixel.red = r_sum // count
+            new_img_pixel.green = g_sum // count
+            new_img_pixel.blue = b_sum // count
     return new_img
 
 
