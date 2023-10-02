@@ -32,6 +32,8 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [bouncing_rect.py](https://github.com/Jiayikung/Python-learning/blob/main/bouncing_rect.py)
    - [draw_line.py](https://github.com/Jiayikung/Python-learning/blob/main/draw_line.py)
    - [bouncing_ball.py](https://github.com/Jiayikung/Python-learning/blob/main/bouncing_ball.py)
+   - [zone.py](https://github.com/Jiayikung/Python-learning/blob/main/zone.py)
+   - [zonegraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/zonegraphics.py)
  - List, Stack & Queue:
    
      
