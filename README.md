@@ -34,6 +34,8 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [bouncing_ball.py](https://github.com/Jiayikung/Python-learning/blob/main/bouncing_ball.py)
    - [zone.py](https://github.com/Jiayikung/Python-learning/blob/main/zone.py)
    - [zonegraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/zonegraphics.py)
+   - [breakout.py](https://github.com/Jiayikung/Python-learning/blob/main/breakout.py)
+   - [breakoutgraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/breakoutgraphics.py)
  - List, Stack & Queue:
    
      
