@@ -38,4 +38,11 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [breakoutgraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/breakoutgraphics.py)
  - List, Stack & Queue:
    - [stanCodoshop 2.py](https://github.com/Jiayikung/Python-learning/blob/main/stanCodoshop%202.py)
+ - Data Structure, Data manipulation:
+   - [babygraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/babygraphics.py)
+   - [babygraphicsgui.py](https://github.com/Jiayikung/Python-learning/blob/main/babygraphicsgui.py)
+   - [babynames.py](https://github.com/Jiayikung/Python-learning/blob/main/babynames.py)
+ - tkinter, Web Crawler Commands:
+   - [webcrawler.py](https://github.com/Jiayikung/Python-learning/blob/main/webcrawler.py)
+ 
      
