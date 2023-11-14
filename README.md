@@ -29,9 +29,14 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [mirror_lake.py](https://github.com/Jiayikung/Python-learning/blob/main/mirror_lake.py)
  - Class & Object, Animation, Global variable, Mouse event:
    - [my_drawing.py](https://github.com/Jiayikung/Python-learning/blob/main/my_drawing.py)
+   - [min_stack.py](https://github.com/Jiayikung/Python-learning/blob/main/min_stack.py)
    - [bouncing_rect.py](https://github.com/Jiayikung/Python-learning/blob/main/bouncing_rect.py)
    - [draw_line.py](https://github.com/Jiayikung/Python-learning/blob/main/draw_line.py)
    - [bouncing_ball.py](https://github.com/Jiayikung/Python-learning/blob/main/bouncing_ball.py)
+   - [pypal.py](https://github.com/Jiayikung/Python-learning/blob/main/pypal.py)
+   - [pypal_starter.py](https://github.com/Jiayikung/Python-learning/blob/main/pypal_starter.py)
+   - [robot.py](https://github.com/Jiayikung/Python-learning/blob/main/robot.py)
+   - [robot_starter.py](https://github.com/Jiayikung/Python-learning/blob/main/robot_starter.py)
    - [zone.py](https://github.com/Jiayikung/Python-learning/blob/main/zone.py)
    - [zonegraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/zonegraphics.py)
    - [breakout.py](https://github.com/Jiayikung/Python-learning/blob/main/breakout.py)
@@ -39,10 +44,17 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
  - List, Stack & Queue:
    - [stanCodoshop 2.py](https://github.com/Jiayikung/Python-learning/blob/main/stanCodoshop%202.py)
  - Data Structure, Data manipulation:
+   - [binary_search.py](https://github.com/Jiayikung/Python-learning/blob/main/binary_search.py)
+   - [rotten_tomato.py](https://github.com/Jiayikung/Python-learning/blob/main/rotten_tomato.py)
+   - [tokenization.py](https://github.com/Jiayikung/Python-learning/blob/main/tokenization.py)
    - [babygraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/babygraphics.py)
    - [babygraphicsgui.py](https://github.com/Jiayikung/Python-learning/blob/main/babygraphicsgui.py)
    - [babynames.py](https://github.com/Jiayikung/Python-learning/blob/main/babynames.py)
  - tkinter, Web Crawler Commands:
+   - [web_crawler_avg.py](https://github.com/Jiayikung/Python-learning/blob/main/web_crawler_avg.py)
+   - [web_crawler.py](https://github.com/Jiayikung/Python-learning/blob/main/web_crawler.py)
    - [webcrawler.py](https://github.com/Jiayikung/Python-learning/blob/main/webcrawler.py)
+ - Factorial:
+   - [factorial.py](https://github.com/Jiayikung/Python-learning/blob/main/factorial.py)
  
      
