@@ -37,5 +37,5 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [breakout.py](https://github.com/Jiayikung/Python-learning/blob/main/breakout.py)
    - [breakoutgraphics.py](https://github.com/Jiayikung/Python-learning/blob/main/breakoutgraphics.py)
  - List, Stack & Queue:
-   - [stanCodoshop.py](https://github.com/Jiayikung/Python-learning/blob/main/stanCodoshop.py)
+   - [stanCodoshop 2.py](https://github.com/Jiayikung/Python-learning/blob/main/stanCodoshop%202.py)
      
