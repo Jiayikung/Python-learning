@@ -54,7 +54,10 @@ Here are a collection of Python solutions for questions provided by StanCode. Fo
    - [web_crawler_avg.py](https://github.com/Jiayikung/Python-learning/blob/main/web_crawler_avg.py)
    - [web_crawler.py](https://github.com/Jiayikung/Python-learning/blob/main/web_crawler.py)
    - [webcrawler.py](https://github.com/Jiayikung/Python-learning/blob/main/webcrawler.py)
- - Factorial:
+ - Recursion:
    - [factorial.py](https://github.com/Jiayikung/Python-learning/blob/main/factorial.py)
+   - [cantor_set_drawing.py](https://github.com/Jiayikung/Python-learning/blob/main/cantor_set_drawing.py)
+   - [palindrome.py](https://github.com/Jiayikung/Python-learning/blob/main/palindrome.py)
+   - [sq_corners_fractal.py](https://github.com/Jiayikung/Python-learning/blob/main/sq_corners_fractal.py)
  
      
